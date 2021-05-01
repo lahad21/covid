@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="txt_question1">Avez vous eu de la fièvre durant ces 3 derniers jours ?</string>
+    <string name="txt_question2">Toussez vous régulièrement?</string>
+    <string name="oui">OUI</string>
+    <string name="non">NON</string>
+    <string name="Hint_message">Entrer l objet du message</string>
+    <string name="hint_num_message">Entrer le message</string>
+    <string name="txt_bouton_envoyer">Envoyer</string>
+    <string name="title_activity_localisation">Map</string>
+</resources>
